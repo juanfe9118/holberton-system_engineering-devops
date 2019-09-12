@@ -1,4 +1,4 @@
-#1 Script Descriptions for Shell Permissions
+# Script Descriptions for Shell Permissions
 0. **iam_betty** 
 > changes the currrent user to betty.
 1. **who_am_i**
