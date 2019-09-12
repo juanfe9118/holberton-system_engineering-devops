@@ -5,7 +5,7 @@
 >  prints the current user.
 2. **groups**
 > prints the groups the current user is a part of.
-3. **new_ownwer**
+3. **new_owner**
 > changes the ownership of the file *hello* to the user *betty*.
 4. **empty**
 > creates an empty file named *hello*.
