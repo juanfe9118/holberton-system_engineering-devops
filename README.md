@@ -1,1 +1,1 @@
-This repo is for learning how to use the **Shell**
+This repo is for learning how to use the **Shell** specially the bash commands
