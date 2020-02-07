@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script displays "Holberton School" 10 times.
+# This script displays "Holberton School" 10 times but on the 9th iter it also displays "Hi" on a new line.
 i="0"
 while [ $i -lt 10 ]
 do
