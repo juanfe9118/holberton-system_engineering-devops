@@ -27,3 +27,12 @@
 
 #### [8-beheaded_process](./8-beheaded_process)
 * Script that kills the process `7-highlander`.
+
+#### [100-process_and_pid_file](./100-process_and_pid_file)
+* Script that:
+
+    -Creates the file /var/run/holbertonscript.pid containing its PID
+    -Displays To infinity and beyond indefinitely
+    -Displays I hate the kill command when receiving a SIGTERM signal
+    -Displays Y U no love me?! when receiving a SIGINT signal
+    -Deletes the file /var/run/holbertonscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
