@@ -18,3 +18,12 @@
 
 #### [0x05-processes_and_signals](./0x05-processes_and_signals)
 * Directory to practice _processes and signals_.
+
+#### [0x06-regular_expressions](./0x06-regular_expressions)
+* Directory to practice _regular expressions_.
+
+#### [0x07-networking_basics](./0x07-networking_basics)
+* Directory to practice _networking basics_.
+
+#### [0x08-networking_basics_2](./0x08-networking_basics_2)
+* Directory to continue practicing _networking basics_.
