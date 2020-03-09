@@ -27,3 +27,6 @@
 
 #### [0x08-networking_basics_2](./0x08-networking_basics_2)
 * Directory to continue practicing _networking basics_.
+
+#### [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
+* Directory to learn about _web infrastructure and servers_.
