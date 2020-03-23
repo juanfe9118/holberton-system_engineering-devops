@@ -1,6 +1,6 @@
 # Executes a command
 
 exec { 'pkill':
-    path    => './killmenow',
+    path    => '/usr/bin',
     command => 'pkill -f ./killmenow'
 }
