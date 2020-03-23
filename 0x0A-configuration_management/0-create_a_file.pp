@@ -1,5 +1,5 @@
 file { '/etc/holberton':
-    ensure  => 'file',
+    ensure  => file,
     group   => 'www-data',
     owner   => 'www-data',
     mode    => '0744',
