@@ -30,3 +30,6 @@
 
 #### [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
 * Directory to learn about _web infrastructure and servers_.
+
+#### [0x0A-configuration_management](./0x0A-configuration_management)
+* Directory to learn about _configuration management_.
