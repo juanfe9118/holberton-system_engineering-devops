@@ -33,3 +33,6 @@
 
 #### [0x0A-configuration_management](./0x0A-configuration_management)
 * Directory to learn about _configuration management_.
+
+#### [0x0B-ssh](./0x0B-ssh)
+* Directory to learn about _ssh_.
