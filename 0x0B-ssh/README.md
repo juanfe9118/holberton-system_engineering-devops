@@ -9,3 +9,6 @@
 
 #### [2-ssh_config](./2-ssh_config)
 * SSH configuration file that allows to connect to the server without a password.
+
+#### [4-puppet_ssh_config.pp](./4-puppet_ssh_config.pp)
+* Puppet script that modifies the `/etc/ssh/ssh_config` file to not require password authentication and connect wit the `holberton` ssh key.
