@@ -2,6 +2,6 @@
 # Configures a web server with nginx listening on port 80 and when queried on root shows a page with the strin "Holberton School"
 apt-get update
 apt-get install -y nginx
-systemctl start nginx
 ufw allow 'Nginx HTTP'
 echo "Holberton School" > /var/www/html/index.nginx-debian.html
+systemctl start nginx
