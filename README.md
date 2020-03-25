@@ -36,3 +36,9 @@
 
 #### [0x0B-ssh](./0x0B-ssh)
 * Directory to learn about _ssh_.
+
+#### [0x0C-web_server](./0x0C-web_server)
+* Directory to learn about _web servers_.
+
+#### [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
+* Directory to learn about _web stack debugging_.
