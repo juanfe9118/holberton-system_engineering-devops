@@ -15,3 +15,9 @@
 
 #### [4-not_found_page_404](./4-not_found_page_404)
 * Bash script that configures a new Ubuntu machine based on `3-redirection` that has a 404 page that has the string "Ceci n'est pas une page".
+
+#### [5-design_a_beautiful_404_page](./)
+* Empty file.
+
+#### [7-puppet_install_nginx_web_server.pp](./7-puppet_install_nginx_web_server.pp)
+* Puppet script that configures a new ubuntu machine to install `nginx` listening on port 80, and also with a `301 Moved Permanently` redirection.
