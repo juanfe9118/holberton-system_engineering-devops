@@ -1,1 +1,5 @@
 #!/usr/bin/env bash
+# Configures an ubuntu server to have a custom header in the HTTP Response
+
+sed -i "/listen 80 default_server/a add_header X-Served-By \"$HOSTNAME\";" /etc/nginx/sites-available/default
+service nginx restart
