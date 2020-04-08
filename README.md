@@ -48,3 +48,9 @@
 
 #### [0x0F-load_balancer](./0x0F-load_balancer)
 * Directory to learn about _load balancers_.
+
+#### [0x10-https_ssl](./0x10-https_ssl)
+* Directory to learn about _http secured_.
+
+#### [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
+* Directory to continue practicing _web stack debugging_.
