@@ -54,3 +54,6 @@
 
 #### [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
 * Directory to continue practicing _web stack debugging_.
+
+#### [0x13-firewall](./0x13-firewall)
+* Directory to learn about _firewalls_.
