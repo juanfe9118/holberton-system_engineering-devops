@@ -52,6 +52,9 @@
 #### [0x10-https_ssl](./0x10-https_ssl)
 * Directory to learn about _http secured_.
 
+#### [0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter)
+* Directory with a link to an article that attempts to answer the question posted in the directory name.
+
 #### [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
 * Directory to continue practicing _web stack debugging_.
 
