@@ -60,3 +60,6 @@
 
 #### [0x13-firewall](./0x13-firewall)
 * Directory to learn about _firewalls_.
+
+#### [0x14-mysql](./0x14-mysql)
+* Directory to learn about _MySQL Master and Slave setup_.
