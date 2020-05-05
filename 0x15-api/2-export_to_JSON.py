@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     username = user.get("username")
 
-    # Create a list to later convert to csv format
+    # Create a list to later convert to JSON format
     dict_list = []
     for task in todos:
         row = {}
@@ -28,6 +28,6 @@ if __name__ == "__main__":
     json_dict = {}
     json_dict[uid] = dict_list
 
-    # Convert list to CSV file
+    # Convert list to JSON file
     with open("{}.json".format(uid), "w") as json_file:
         json_file.write(json.dumps(json_dict))
