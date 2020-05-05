@@ -8,8 +8,6 @@ from sys import argv
 
 if __name__ == "__main__":
     uid = argv[1]
-    all_tasks = 0
-    done_tasks = 0
     user_url = "https://jsonplaceholder.typicode.com/users/{}".format(uid)
     task_url = user_url + "/todos"
 
