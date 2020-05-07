@@ -66,3 +66,6 @@
 
 #### [0x15-api](./0x15-api)
 * Directory to learn about _APIs_.
+
+#### [0x16-api_advanced](./0x16-api_advanced)
+* Directory to further learn about _APIs_.
