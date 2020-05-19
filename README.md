@@ -69,3 +69,12 @@
 
 #### [0x16-api_advanced](./0x16-api_advanced)
 * Directory to further learn about _APIs_.
+
+#### [0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3)
+* Directory to continue practicing _web stack debugging_.
+
+#### [0x18-webstack_monitoring](./0x18-webstack_monitoring)
+* Directory to learn about _webstack monitoring_.
+
+#### [0x19-postmortem](./0x19-postmortem)
+* Directory to learn about _postmortem_.
