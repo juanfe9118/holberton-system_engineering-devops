@@ -1,7 +1,5 @@
 # Fix a WordPress site server.
-file_line { 'WordPress Fix':
-    ensure => present,
-    path   => '/var/www/html/wp-settings.php',
-    line   => "require( ABSPATH . WPINC . '/class-wp-list-util.php'  );",
-    match  => "require( ABSPATH . WPINC . '/class-wp-list-util.phpp'  );"
+exec { 'WordPress Fix':
+    path    => '/bin/',
+    command => 'sed -i "s/class-wp-locale.phpp/class-wp-locale.php/g" /var/www/html/wp-settings.php'
 }
