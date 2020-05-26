@@ -78,3 +78,6 @@
 
 #### [0x19-postmortem](./0x19-postmortem)
 * Directory to learn about _postmortem_.
+
+#### [0x1B-web_stack_debugging_4](./0x1B-web_stack_debugging_4)
+* Directory to continue practicing _web stack debugging_.
