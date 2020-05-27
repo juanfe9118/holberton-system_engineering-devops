@@ -1,5 +1,5 @@
 # Holberton School System Engineering Devops
-### This repo is for learning how to use the *Shell* specially the bash commands. It has many sub directories which will contain practice projects.
+### This repo is for learning about the DevOps track. It has many subdirectories containing diverse projects, below is their description.
 
 #### [0x00-shell_basics](./0x00-shell_basics)
 * Directory to practice the basic concepts of _Shell_.
