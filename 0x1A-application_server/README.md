@@ -1,5 +1,5 @@
 # Application server
-### Directory to learn about _aplication servers-. Below is a description of the files contained in this directory.
+### Directory to learn about _aplication servers_. Below is a description of the files contained in this directory.
 
 #### [2-app_server-nginx_config](./2-app_server-nginx_config)
 * Nginx configuration file that serves a webpage locally, on port 80 and port 5000.
